@@ -1,6 +1,6 @@
 // Probability of a Mocking Spongebob response
 // 1 = always respond, +inf = never respond
-var PROB_RESPONSE = 25;
+var PROB_RESPONSE = 40;
 
 // Minimum length for a response
 var MIN_LENGTH = 10;
