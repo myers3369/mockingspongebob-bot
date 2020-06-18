@@ -1,9 +1,9 @@
 // Probability of a Mocking Spongebob response
 // 1 = always respond, +inf = never respond
-var PROB_RESPONSE = 40;
+var PROB_RESPONSE = 100;
 
 // Minimum length for a response
-var MIN_LENGTH = 10;
+var MIN_LENGTH = 12;
 
 var HTTPS = require('https');
 var botID = process.env.BOT_ID;
